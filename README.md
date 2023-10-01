@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ishachenna
+- 👋 Hi, I’m Ishachenna
 - 👀 I’m interested in ...web development, python, Graphics Design
-- 🌱 I’m currently learning ...python, webdevelopment, photoshop, UI/UX
+- 🌱 I’m currently learning ...python, webdevelopment, photoshop, UI/UX, Svelte
 - 💞️ I’m looking to collaborate on ...python, webdevelopment, Graphics Design 
 - 📫 How to reach me ...ishabchenna39@gmail.com
 
